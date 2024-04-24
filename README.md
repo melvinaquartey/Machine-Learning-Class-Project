@@ -1,4 +1,6 @@
-# Predicting Lift Coefficients from Airfoil Geometric Parameters Through Machine Learning
+# Predicting (CL/CD )max  from Airfoil Geometric Parameters using Machine Learning
+![image](https://github.com/melvinaquartey/Machine-Learning-Class-Project/assets/156226672/c9cde18a-eeba-4c1d-a6a1-c1380d4fa36d)
+
 This repository contains folders pertaining to my Machine Learning Engineering class project.
 
 This project aims to explore the application of four different regression models to predict the maximum ratio of lift to drag coefficients of a range of airfoils given specific geometric parameters.
